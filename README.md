@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vk3005/Leetcode_problem/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -48,9 +50,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
