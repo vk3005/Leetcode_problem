@@ -16,7 +16,7 @@ class Solution {
         int carry = 0;
 
         while (l1 != null || l2 != null){
-
+ 
             int l1Val = 0;            
             if (l1 != null) {
                 l1Val = l1.val;
