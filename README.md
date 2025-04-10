@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vk3005/Leetcode_problem/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
 ## Backtracking
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vk3005/Leetcode_problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
