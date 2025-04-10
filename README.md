@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vk3005/Leetcode_problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
