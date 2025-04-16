@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vk3005/Leetcode_problem/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vk3005/Leetcode_problem/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 ## Simulation
