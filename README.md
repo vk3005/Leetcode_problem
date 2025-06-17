@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
+| [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/vk3005/Leetcode_problem/tree/master/0978-valid-mountain-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vk3005/Leetcode_problem/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
 ## String
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
