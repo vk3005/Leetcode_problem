@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vk3005/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vk3005/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
