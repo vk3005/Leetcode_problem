@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vk3005/Leetcode_problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vk3005/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vk3005/Leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vk3005/Leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vk3005/Leetcode_problem/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vk3005/Leetcode_problem/tree/master/0125-valid-palindrome) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
