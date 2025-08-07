@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 | [2383-add-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/vk3005/Leetcode_problem/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
