@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vk3005/Leetcode_problem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/vk3005/Leetcode_problem/tree/master/0978-valid-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/vk3005/Leetcode_problem/tree/master/2556-convert-the-temperature) |
 ## Recursion
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vk3005/Leetcode_problem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 ## Sliding Window
 |  |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
