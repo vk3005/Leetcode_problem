@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vk3005/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vk3005/Leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 ## Sliding Window
 |  |
