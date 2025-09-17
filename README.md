@@ -12,7 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vk3005/Leetcode_problem/tree/master/0027-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vk3005/Leetcode_problem/tree/master/0049-group-anagrams) |
@@ -28,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/vk3005/Leetcode_problem/tree/master/0978-valid-mountain-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk3005/Leetcode_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vk3005/Leetcode_problem/tree/master/1603-running-sum-of-1d-array) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vk3005/Leetcode_problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk3005/Leetcode_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/vk3005/Leetcode_problem/tree/master/2406-decode-the-message) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk3005/Leetcode_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -194,7 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vk3005/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
-| [0033-search-in-rotated-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk3005/Leetcode_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
 |  |
 | ------- |
