@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vk3005/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/vk3005/Leetcode_problem/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vk3005/Leetcode_problem/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vk3005/Leetcode_problem/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/vk3005/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/vk3005/Leetcode_problem/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
