@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vk3005/Leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/vk3005/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vk3005/Leetcode_problem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vk3005/Leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/vk3005/Leetcode_problem/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/vk3005/Leetcode_problem/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vk3005/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vk3005/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/vk3005/Leetcode_problem/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
