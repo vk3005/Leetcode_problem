@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/vk3005/Leetcode_problem/tree/master/0978-valid-mountain-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vk3005/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
