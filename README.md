@@ -25,7 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vk3005/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vk3005/Leetcode_problem/tree/master/0283-move-zeroes) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vk3005/Leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
@@ -48,7 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vk3005/Leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk3005/Leetcode_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
