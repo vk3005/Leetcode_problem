@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vk3005/Leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vk3005/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vk3005/Leetcode_problem/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vk3005/Leetcode_problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vk3005/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vk3005/Leetcode_problem/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vk3005/Leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vk3005/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/vk3005/Leetcode_problem/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vk3005/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vk3005/Leetcode_problem/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vk3005/Leetcode_problem/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/vk3005/Leetcode_problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vk3005/Leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vk3005/Leetcode_problem/tree/master/0125-valid-palindrome) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vk3005/Leetcode_problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vk3005/Leetcode_problem/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/vk3005/Leetcode_problem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vk3005/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vk3005/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
