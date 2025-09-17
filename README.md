@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vk3005/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vk3005/Leetcode_problem/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vk3005/Leetcode_problem/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/vk3005/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vk3005/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/vk3005/Leetcode_problem/tree/master/0561-array-partition) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vk3005/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/vk3005/Leetcode_problem/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
