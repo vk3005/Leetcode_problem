@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/vk3005/Leetcode_problem/tree/master/0978-valid-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vk3005/Leetcode_problem/tree/master/1603-running-sum-of-1d-array) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vk3005/Leetcode_problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
