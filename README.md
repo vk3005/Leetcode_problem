@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vk3005/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vk3005/Leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vk3005/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/vk3005/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vk3005/Leetcode_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vk3005/Leetcode_problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/vk3005/Leetcode_problem/tree/master/2107-find-unique-binary-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vk3005/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vk3005/Leetcode_problem/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/vk3005/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/vk3005/Leetcode_problem/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/vk3005/Leetcode_problem/tree/master/2556-convert-the-temperature) |
 ## Recursion
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vk3005/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vk3005/Leetcode_problem/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/vk3005/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/vk3005/Leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vk3005/Leetcode_problem/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
